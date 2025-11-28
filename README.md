@@ -33,12 +33,7 @@ ModelX filters the noise of the internet to provide:
 
 ---
 
-## Installation & Setup
-
 ### Prerequisites
 * Python 3.8 or higher installed.
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/yourusername/modelx-platform.git](https://github.com/yourusername/modelx-platform.git)
-cd modelx_platform# modelx
+
